@@ -4,7 +4,8 @@ Annow version 1.0 Usage Manual
 
 This software is intended to create NCBI BLAST nucleotide databases from Local and Remote Sources for local querying.
 This software can be used to update FASTA files with new annotations, extract alignment metrics, and view alignments. 
-USAGE:
+
+#USAGE:
 
 Run Name - Used for file and directory naming (i.e FASTA files, results).  Spaces will be replaced by '_'. 
 Additionally, the current Month, Day, Hour, and Minute will be added to your run name to further distinguish experiments.		   
@@ -80,7 +81,7 @@ default = unchecked
 
 
 
-RUNNING Annow:
+#RUNNING Annow:
 
 When all parameters are entered correctly press RUN to begin. This process is done concurrently 
 and the UI may become unresponsive during data processing. However any errors will be reported in screen, 

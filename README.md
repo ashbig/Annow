@@ -60,7 +60,7 @@ default value = 99.00
 usage : 75.00
 
 		  
-# Hits - This must be an whole number and will determine how many results to return while running BLAST. 
+Hits - This must be an whole number and will determine how many results to return while running BLAST. 
 A greater number of hits requested increases run time. 	 
 
 default value = 1
